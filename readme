@@ -1,0 +1,12 @@
+Hi, ich bin Dennis.
+Dies ist mein "automatische Honigabfüllanlage" Projekt. 
+
+Du findest hier die Dateien, die Du auf deinen Arduino Mega 2650 laden und ausführen kannst. 
+
+Honigabfueller-smooth-tabs: Hauptdatei mit dem Programmcode
+variablen.h: Die separate Dateienthält anpassbare Parameter, die Du bei Bedarf anpassen kannst. 
+Mit Sicherheit musst Du die Kalibrierungszahl auf deine Waage anpassen.
+
+Standartmäßig ist alles auf ein 500g Glas Honig eingestellt und auf den Aufbau, wie ich ihn unter
+https://www.derselbermacherblog.de/wp-admin/post.php?post=11177
+veröffentlicht habe. Hier gibt es auch ein Forum und Diskussion.

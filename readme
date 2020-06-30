@@ -5,8 +5,14 @@ Du findest hier die Dateien, die Du auf deinen Arduino Mega 2650 laden und ausf�
 
 Honigabfueller-smooth-tabs: Hauptdatei mit dem Programmcode
 variablen.h: Die separate Dateienthält anpassbare Parameter, die Du bei Bedarf anpassen kannst. 
+
+Beide Dateien runterladen, in deine Arduino IDE laden,kompilieren und auf den Arduino hochladen.
+
+Anpassungen an deine Anlage:
 Mit Sicherheit musst Du die Kalibrierungszahl auf deine Waage anpassen.
+Alle Werte in der variablen.h sind dort beschrieben undkönnen verändert werden, ohne den Hauptcode
+zu beschädigen.
 
 Standartmäßig ist alles auf ein 500g Glas Honig eingestellt und auf den Aufbau, wie ich ihn unter
-https://www.derselbermacherblog.de/wp-admin/post.php?post=11177
+https://www.derselbermacherblog.de/2020/06/14/automatischer-honigabfueller/
 veröffentlicht habe. Hier gibt es auch ein Forum und Diskussion.
